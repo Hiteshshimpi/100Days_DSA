@@ -18,7 +18,7 @@ public class EncodingOfString {
             }
         }
         System.out.println(hash);
-
+System.out.println(s);
     }
 
 

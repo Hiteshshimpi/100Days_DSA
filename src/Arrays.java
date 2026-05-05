@@ -11,7 +11,7 @@ public class Arrays {
 
     public  static void runningSum(int[] arr){
 
-        int sum =0;
+        int sum1 =0;
       for(int i =0;i<arr.length;i++)
       {
           sum =sum +arr[i];

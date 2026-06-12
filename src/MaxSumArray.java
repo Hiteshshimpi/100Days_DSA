@@ -23,8 +23,6 @@ public class MaxSumArray {
                 }
             }
 
-        System.out.println(hash);
-        System.out.println(count);
-
+        System.out.println(hash+"  and "+ count);
     }
 }
